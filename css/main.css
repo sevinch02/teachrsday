@@ -1,0 +1,70 @@
+.intro{
+    background-image: url("../img/oqituvchi.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-size: 100%;
+    width: 100%;
+    height: 100vh;
+  
+}
+.article{
+    padding-bottom: 10%;
+}
+.skidka{
+    color: red;
+    text-decoration: line-through;
+}
+a{
+    text-decoration: none !important;
+   
+}
+.article .container .article-row{
+    display: flex;
+    margin: 0 auto;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+}
+.article-info{
+    width: 45%;
+    color: #222;
+    font-weight: 500;
+}
+.article-info__title{
+    color: black;
+}
+.article-img{
+    width: 40%;
+}
+.article-img__img{
+    width: 100%;
+}
+.help-article-info{
+    margin-top: 20%;
+}
+.reklama{
+
+    background-color: rgba(240, 248, 255, 0.781);
+}
+.reklama-2{
+    background-color: rgba(240, 248, 255, 0.781);
+}
+.reklama-div{
+    display: flex;
+    align-items: center;
+    margin: 0 auto;
+}
+.reklama-img{
+    width: 200px;
+    /* display: inline-block; */
+}
+.rek-img{
+    width: 100px;
+}
+.reklama-text{
+    width: 80%;
+    margin: 0 auto;
+    font-size: 15px;
+   
+}
