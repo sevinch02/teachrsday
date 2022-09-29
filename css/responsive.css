@@ -1,0 +1,26 @@
+/* Responsive */
+
+@media(max-width:991.98px){
+    .article{
+        text-align: center;
+    }
+    .article-row{
+      display: flex;
+      flex-direction: column;
+      flex-wrap: wrap;
+    }
+    .article-info{
+      width: 100%;
+      margin: 0 auto;
+    }
+    .article-img{
+        margin: 0 auto;
+    }
+    .reklama-div{
+        flex-direction: column;
+    }
+    .reklama-text {
+        font-size: 13px;
+        width: 100%;
+    }
+  }
